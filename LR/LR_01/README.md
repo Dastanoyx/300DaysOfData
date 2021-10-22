@@ -3,10 +3,10 @@
 ### Installation
 #### Importing Libraries
 
-numpy
-pandas
-matplotlib
-Sklearn
+numpy 
+pandas 
+matplotlib 
+Sklearn 
 ### Porject Descriptions
 Simple linear regression without framework
 What is Simple Linear Regression?
