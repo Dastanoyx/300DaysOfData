@@ -1,9 +1,9 @@
 ## Simple Linear Regression
 ### Installation
 #### Importing Libraries
-numpy
-pandas
-matplotlib
+numpy,
+pandas,
+matplotlib,
 Sklearn 
 
 ### Porject Descriptions
