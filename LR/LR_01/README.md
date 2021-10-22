@@ -1,4 +1,4 @@
-Simple Linear Regression Using Sklearn
+## Simple Linear Regression Using Sklearn
 Simple linear regression
 Installation
 Importing Libraries
