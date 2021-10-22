@@ -1,13 +1,13 @@
 ## Simple Linear Regression Using Sklearn
-Simple linear regression
-Installation
-Importing Libraries
+###Simple linear regression
+###Installation
+####Importing Libraries
 
 numpy
 pandas
 matplotlib
 Sklearn
-Porject Descriptions
+###Porject Descriptions
 Simple linear regression without framework
 What is Simple Linear Regression?
 Simple linear regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables:
